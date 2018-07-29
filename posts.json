@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Carbon",
+    "content": "소스코드를 아름다운 이미지로 저장하고 공유하세요",
+    "link": "https://carbon.now.sh",
+    "thumb": "https://carbon.now.sh/static/favicon.ico",
+    "tags": ["design"],
+    "fontColor": "#F8E81C",
+    "backgroundColor": "#121212"
+  },
+  {
+    "title": "Alligator",
+    "content": "Vue.js 튜토리얼 사이트",
+    "link": "https://alligator.io/vuejs",
+    "thumb": "https://d33wubrfki0l68.cloudfront.net/4e5626a0b7db6b84c0b51f1c0cfd56490fc19b74/7a5ad/images/logo-fancy.svg",
+    "tags": ["vue", "js"],
+    "fontColor": "#FFF",
+    "backgroundColor": "#EFBB35"
+  },
+  {
+    "title": "Flaviocopes",
+    "content": "Vue.js등의 자바스크립트 관련 게시물이 하루에 하나씩 올라오는 튜토리얼 사이트",
+    "link": "https://flaviocopes.com/",
+    "thumb": "https://flaviocopes.com/assets/favicon.ico",
+    "tags": ["vue", "js", "tutorials"],
+    "fontColor": "#FFF",
+    "backgroundColor": "#00a0fc"
+  },  
+  {
+    "title": "Airbnb",
+    "content": "Airbnb의 자바스크립트 스타일 가이드",
+    "link": "https://github.com/airbnb/javascript",
+    "thumb": "https://a0.muscache.com/airbnb/static/icons/android-icon-192x192-c0465f9f0380893768972a31a614b670.png",
+    "tags": ["js"],
+    "fontColor": "#fff",
+    "backgroundColor": "#ff5a5f"    
+  },
+  {
+    "title": "Nucleo",
+    "content": "아이콘을 효율적으로 관리할 수 있도록 도와주는 일렉트론 앱",
+    "link": "https://nucleoapp.com",
+    "thumb": "https://nucleoapp.com/assets/img/logo-dark.svg",
+    "tags": ["icon", "electron"],
+    "fontColor": "#FFF",
+    "backgroundColor": "#608cee"
+  },
+  {
+    "title": "Colorhunt",
+    "content": "수천 가지의 색상 팔레트를 제공합니다",
+    "link": "https://colorhunt.co/popular",
+    "thumb": "https://colorhunt.co/img/color-hunt-palettes-logo.png",
+    "tags": ["palettes", "color"],
+    "fontColor": "#FFF",
+    "backgroundColor": "#ff6868"
+  },
+  {
+    "title": "Webgradients",
+    "content": "180가지의 선형 그라디언트를 제공합니다",
+    "link": "https://webgradients.com/",
+    "thumb": "https://webgradients.com/img/other/logos/webgradients_logo.png",
+    "tags": ["gradient", "color"],
+    "fontColor": "#FFF",
+    "backgroundColor": "#2673e7"
+  },
+  {
+    "title": "Shapefactory",
+    "content": "심플한 디자인 도구",
+    "link": "https://shapefactory.co/",
+    "thumb": "https://shapefactory.co/static/images/favicon-dark.png",
+    "tags": ["design", "color"],
+    "fontColor": "#FFF",
+    "backgroundColor": "#2d2d2d"
+  },  
+  {
+    "title": "Coolhue",
+    "content": "60가지 색상의 그라디언트를 이미지 및 CSS 코드로 제공합니다",
+    "link": "https://webkul.github.io/coolhue/",
+    "thumb": "https://webkul.github.io/coolhue/images/coolhue-logo.png",
+    "tags": ["gradient", "color"],
+    "fontColor": "#FFF",
+    "backgroundColor": "#6833DF"
+  },
+  {
+    "title": "Device Metrics",
+    "content": "디바이스 별 크기, 밀도 등의 정보를 보여줍니다",
+    "link": "https://material.io/tools/devices/",
+    "thumb": "https://material.io/tools/devices/static/images/devices-192x192.png",
+    "tags": ["material", "dpi"],
+    "fontColor": "rgba(255,255,255,0.87)",
+    "backgroundColor": "#212121"
+  },
+  {
+    "title": "Slowalk",
+    "content": "웹디자인에서 자간, 행간에 대한 고찰",
+    "link": "http://slowalk.tistory.com/2194",
+    "thumb": "http://tistory3.daumcdn.net/tistory/175604/e1a63e96e4b34b2f9a99fc5e7999e69b",
+    "tags": ["design", "css", "font"],
+    "fontColor": "#6e6868",
+    "backgroundColor": "#f3ecec"
+  },  
+  {
+    "title": "Dev.Opera",
+    "content": "CSS will-change 프로퍼티에 관해 알아둬야 할 것",
+    "link": "https://dev.opera.com/articles/ko/css-will-change-property/",
+    "thumb": "https://dev.opera.com/images/logo.svg",
+    "tags": ["css", "will-change"],
+    "fontColor": "#FFF",
+    "backgroundColor": "#fc4949"
+  }
+]

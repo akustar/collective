@@ -1,0 +1,162 @@
+@font-face {
+  font-family: Whitney;
+  font-weight: 400;
+  src: url(/fonts/whitney-book.woff) format("woff")
+}
+@font-face {
+  font-family: Whitney;
+  font-weight: 500;
+  src: url(/fonts/whitney-medium.woff) format("woff")
+}
+@font-face {
+  font-family: Whitney;
+  font-weight: 600;
+  src: url(/fonts/whitney-semibold.woff) format("woff")
+}  
+@font-face {
+  font-family: Whitney;
+  font-weight: 700;
+  src: url(/fonts/whitney-bold.woff) format("woff")
+}
+
+html {
+  overflow-y: scroll;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+  font-family: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+  color: #292929;
+  min-width: 320px;
+  background-color: #f5fbff;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;  
+}
+
+img {
+  max-width: 100%;
+}
+
+.ct-container {
+  display: block;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 60px 40px 40px;
+}
+
+.ct-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ct-branding {
+  position: relative;
+  font-size: 32px;
+  font-weight: 100;
+}
+
+.ct-main {
+  display: flex;
+  align-content: stretch;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 80px 0 48px 0;
+}
+
+.ct-post {
+  width: 31%;
+  min-width: 320px;
+  min-height: 300px;
+  margin: 16px 0 32px 0;
+  border-radius: 4px;
+  box-shadow: 0 18px 26px -4px hsla(0, 0%, 83%, .31);
+}
+
+@media (max-width: 1140px) {
+  .ct-post {
+    width: 48%;
+  }
+}
+
+@media (max-width: 768px) {
+  .ct-post {
+    width: 100%;
+  }
+}
+
+.ct-post > a {
+  position: relative;
+  display: block;
+  height: 100%;
+  padding: 32px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.ct-post h3 {
+  font-size: 32px;
+  font-weight: 600;
+  margin: 32px 0 8px 0;
+}
+
+.ct-post p {
+  font-size: 16px;
+  word-break: keep-all;
+}
+
+.ct-post .arrow {
+  position: absolute;
+  right: 32px;
+  top: 32px;
+  opacity: 0;
+  transition: all .15s;
+}
+
+.ct-post .thumb {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  height: 80px;
+  margin-top: -61px;
+  background-color: #fff;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.ct-post .thumb img {
+  display: block;
+}
+
+.ct-post .tgas {
+  position: absolute;
+  left: 32px;
+  bottom: 32px;
+  font-size: 16px;
+}
+
+.ct-post .tgas > button {
+  color: inherit;
+  border: 0;
+  background-color: transparent;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.ct-post .tgas > button:hover {
+  text-decoration: underline;
+}
+
+.ct-post:hover .arrow {
+  opacity: 1;
+}
+
+.ct-footer {
+  text-align: center;
+}
