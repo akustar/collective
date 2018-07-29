@@ -82,7 +82,7 @@
   },
   {
     "title": "Device Metrics",
-    "content": "디바이스 별 크기, 밀도 등의 정보를 보여줍니다",
+    "content": "디바이스 별 크기, 밀도 등의 정보를 제공합니다",
     "link": "https://material.io/tools/devices/",
     "thumb": "https://material.io/tools/devices/static/images/devices-192x192.png",
     "tags": ["material", "dpi"],
