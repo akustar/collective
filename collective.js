@@ -1,5 +1,5 @@
 {
-  fetch('/posts.json')
+  fetch('./posts.json')
   .then(res => res.json())
   .then(posts => {
     let fragment = ''
