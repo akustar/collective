@@ -1,1 +1,1 @@
-웹 기술 관련 즐겨찾는 링크 모음
+[웹 기술 관련 링크 모음](https://akustar.github.io/collective/)
