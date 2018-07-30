@@ -1,14 +1,5 @@
 [
   {
-    "title": "Steemit",
-    "content": "cicada0014님이 작성한 Javascript 메모리 에 대하여!",
-    "link": "https://steemit.com/kr/@cicada0014/2wvmzm-javascript",
-    "thumb": "https://steemit.com/images/favicons/favicon-196x196.png",
-    "tags": ["js"],
-    "fontColor": "#fff",
-    "backgroundColor": "#07dfb0"
-  },
-  {
     "title": "30-seconds-of-css",
     "content": "30초 안에 이해할 수 있는 CSS 컬렉션",
     "link": "https://atomiks.github.io/30-seconds-of-css/",
@@ -16,6 +7,15 @@
     "tags": ["css", "design"],
     "fontColor": "#fff",
     "backgroundColor": "#202e4e"
+  },
+  {
+    "title": "Steemit",
+    "content": "cicada0014님이 작성한 Javascript 메모리 에 대하여!",
+    "link": "https://steemit.com/kr/@cicada0014/2wvmzm-javascript",
+    "thumb": "https://steemit.com/images/favicons/favicon-196x196.png",
+    "tags": ["js"],
+    "fontColor": "#fff",
+    "backgroundColor": "#07dfb0"
   },
   {
     "title": "Carbon",
