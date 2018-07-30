@@ -90,6 +90,24 @@
     "backgroundColor": "#212121"
   },
   {
+    "title": "Poiemaweb",
+    "content": "웹 기술 튜토리얼 사이트",
+    "link": "https://poiemaweb.com/",
+    "thumb": "https://poiemaweb.com/img/poiemaweb.jpg",
+    "tags": ["html", "css", "js", "tutorials"],
+    "fontColor": "#fff",
+    "backgroundColor": "#d16098"
+  },
+  {
+    "title": "ImageMap",
+    "content": "이미지 맵 추출기",
+    "link": "http://dstyle0210.github.io/imageMap/",
+    "thumb": "",
+    "tags": ["image", "map"],
+    "fontColor": "#fff",
+    "backgroundColor": "#5bc0de"
+  },  
+  {
     "title": "Slowalk",
     "content": "웹디자인에서 자간, 행간에 대한 고찰",
     "link": "http://slowalk.tistory.com/2194",
@@ -97,7 +115,7 @@
     "tags": ["design", "css", "font"],
     "fontColor": "#6e6868",
     "backgroundColor": "#f3ecec"
-  },  
+  },
   {
     "title": "Dev.Opera",
     "content": "CSS will-change 프로퍼티에 관해 알아둬야 할 것",
@@ -106,5 +124,14 @@
     "tags": ["css", "will-change"],
     "fontColor": "#FFF",
     "backgroundColor": "#fc4949"
+  },
+  {
+    "title": "Javascript Garden",
+    "content": "JavaScript를 익히면서 자주 겪는 실수, 미묘한 버그, 성능 이슈, 나쁜 습관들 줄일 수 있도록 도와줍니다",
+    "link": "http://bonsaiden.github.io/JavaScript-Garden/ko/",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png",
+    "tags": ["js"],
+    "fontColor": "#FFF",
+    "backgroundColor": "#0d2e4c"
   }
 ]

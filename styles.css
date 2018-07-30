@@ -42,6 +42,10 @@ img {
   max-width: 100%;
 }
 
+img[src=""] {
+  display: none;
+}
+
 .ct-container {
   display: block;
   max-width: 1440px;

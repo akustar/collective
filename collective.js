@@ -8,7 +8,10 @@
         <article class="ct-post" style="background-color: ${post.backgroundColor};color: ${post.fontColor}">
           <a href="${post.link}" target="_blank">
             <div class="thumb">
-              <img src="${post.thumb}" alt="${post.title}">
+              ${(() => {
+                if (post.thumb) return `<img src="${post.thumb}" alt="${post.title}">`
+                else return 'no logo'
+              })()}
             </div>
             <h3>${post.title}</h3>
             <p>${post.content}</p>
