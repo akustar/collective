@@ -72,15 +72,6 @@
     "backgroundColor": "#2673e7"
   },
   {
-    "title": "Shapefactory",
-    "content": "심플한 디자인 도구",
-    "link": "https://shapefactory.co/",
-    "thumb": "https://shapefactory.co/static/images/favicon-dark.png",
-    "tags": ["design", "color"],
-    "fontColor": "#FFF",
-    "backgroundColor": "#2d2d2d"
-  },
-  {
     "title": "Coolhue",
     "content": "60가지 색상의 그라디언트를 이미지 및 CSS 코드로 제공합니다",
     "link": "https://webkul.github.io/coolhue/",
