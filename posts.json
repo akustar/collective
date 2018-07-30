@@ -37,7 +37,7 @@
   },  
   {
     "title": "Flaviocopes",
-    "content": "Vue.js등의 자바스크립트 관련 게시물이 하루에 하나씩 올라오는 튜토리얼 사이트",
+    "content": "Vue.js등의 자바스크립트 관련 게시물이 매일 올라오는 튜토리얼 사이트",
     "link": "https://flaviocopes.com/",
     "thumb": "https://flaviocopes.com/assets/favicon.ico",
     "tags": ["vue", "js", "tutorials"],
@@ -114,7 +114,7 @@
     "thumb": "https://developers.google.com/web/images/web-fundamentals-icon192x192.png",
     "tags": ["js"],
     "fontColor": "#fff",
-    "backgroundColor": "#4285f4"    
+    "backgroundColor": "#4285f4"
   },  
   {
     "title": "Poiemaweb",
