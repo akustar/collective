@@ -109,7 +109,7 @@
   },
   {
     "title": "Web Fundamentals",
-    "content": "브라우저 렌더링 최적화에 대한 튜토리얼",
+    "content": "브라우저 렌더링 최적화",
     "link": "https://developers.google.com/web/fundamentals/performance/rendering/",
     "thumb": "https://developers.google.com/web/images/web-fundamentals-icon192x192.png",
     "tags": ["js"],
