@@ -1,5 +1,14 @@
 [
   {
+    "title": "Steemit",
+    "content": "cicada0014님이 작성한 Javascript 메모리 에 대하여!",
+    "link": "https://steemit.com/kr/@cicada0014/2wvmzm-javascript",
+    "thumb": "https://steemit.com/images/favicons/favicon-196x196.png",
+    "tags": ["js"],
+    "fontColor": "#292929",
+    "backgroundColor": "#07dfb0"
+  },
+  {
     "title": "30-seconds-of-css",
     "content": "30초 안에 이해할 수 있는 CSS 컬렉션",
     "link": "https://atomiks.github.io/30-seconds-of-css/",
@@ -25,7 +34,7 @@
     "tags": ["vue", "js"],
     "fontColor": "#FFF",
     "backgroundColor": "#EFBB35"
-  },
+  },  
   {
     "title": "Flaviocopes",
     "content": "Vue.js등의 자바스크립트 관련 게시물이 하루에 하나씩 올라오는 튜토리얼 사이트",
@@ -72,13 +81,22 @@
     "backgroundColor": "#2673e7"
   },
   {
-    "title": "Coolhue",
-    "content": "60가지 색상의 그라디언트를 이미지 및 CSS 코드로 제공합니다",
-    "link": "https://webkul.github.io/coolhue/",
-    "thumb": "https://webkul.github.io/coolhue/images/coolhue-logo.png",
-    "tags": ["gradient", "color"],
+    "title": "Chrome Experiments",
+    "content": "아름답고 독특한 웹 작품 모음",
+    "link": "https://experiments.withgoogle.com/collection/chrome",
+    "thumb": "https://experiments.withgoogle.com/assets/img/favicon.png",
+    "tags": ["chrome", "js"],
     "fontColor": "#FFF",
-    "backgroundColor": "#6833DF"
+    "backgroundColor": "#000"
+  },  
+  {
+    "title": "Pixels",
+    "content": "매일 올라오는 훌륭한 웹 디자인",
+    "link": "https://klart.io/pixels",
+    "thumb": "https://klart.io/static/img/152x152.png",
+    "tags": ["gradient", "color"],
+    "fontColor": "#fff",
+    "backgroundColor": "#00ceff"
   },
   {
     "title": "Device Metrics",
@@ -106,6 +124,15 @@
     "tags": ["image", "map"],
     "fontColor": "#fff",
     "backgroundColor": "#5bc0de"
+  },
+  {
+    "title": "CSS Tricks",
+    "content": "CSS로 만드는 도형",
+    "link": "https://css-tricks.com/examples/ShapesOfCSS/",
+    "thumb": "https://css-tricks.com/apple-touch-icon.png",
+    "tags": ["css"],
+    "fontColor": "#fff",
+    "backgroundColor": "#242425"
   },  
   {
     "title": "Slowalk",
