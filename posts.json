@@ -115,7 +115,16 @@
     "tags": ["js"],
     "fontColor": "#fff",
     "backgroundColor": "#4285f4"
-  },  
+  },
+  {
+    "title": "Dev.Opera",
+    "content": "CSS will-change 프로퍼티에 관해 알아둬야 할 것",
+    "link": "https://dev.opera.com/articles/ko/css-will-change-property/",
+    "thumb": "https://dev.opera.com/images/logo.svg",
+    "tags": ["css", "will-change"],
+    "fontColor": "#FFF",
+    "backgroundColor": "#fc4949"
+  },
   {
     "title": "Poiemaweb",
     "content": "웹 기술 튜토리얼 사이트",
@@ -151,15 +160,6 @@
     "tags": ["design", "css", "font"],
     "fontColor": "#6e6868",
     "backgroundColor": "#f3ecec"
-  },
-  {
-    "title": "Dev.Opera",
-    "content": "CSS will-change 프로퍼티에 관해 알아둬야 할 것",
-    "link": "https://dev.opera.com/articles/ko/css-will-change-property/",
-    "thumb": "https://dev.opera.com/images/logo.svg",
-    "tags": ["css", "will-change"],
-    "fontColor": "#FFF",
-    "backgroundColor": "#fc4949"
   },
   {
     "title": "Javascript Garden",
