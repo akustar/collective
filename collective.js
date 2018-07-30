@@ -10,7 +10,7 @@
             <div class="thumb">
               ${(() => {
                 if (post.thumb) return `<img src="${post.thumb}" alt="${post.title}">`
-                else return 'no logo'
+                else return ''
               })()}
             </div>
             <h3>${post.title}</h3>
