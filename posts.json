@@ -1,5 +1,14 @@
 [
   {
+    "title": "30-seconds-of-css",
+    "content": "30초 안에 이해할 수 있는 CSS 컬렉션",
+    "link": "https://atomiks.github.io/30-seconds-of-css/",
+    "thumb": "https://atomiks.github.io/30-seconds-of-css/e5b4b9ce166177b1bc2dc3772012e0a1.png",
+    "tags": ["css", "design"],
+    "fontColor": "#fff",
+    "backgroundColor": "#202e4e"
+  },
+  {
     "title": "Carbon",
     "content": "소스코드를 아름다운 이미지로 저장하고 공유하세요",
     "link": "https://carbon.now.sh",
