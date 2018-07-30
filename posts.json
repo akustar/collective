@@ -5,7 +5,7 @@
     "link": "https://steemit.com/kr/@cicada0014/2wvmzm-javascript",
     "thumb": "https://steemit.com/images/favicons/favicon-196x196.png",
     "tags": ["js"],
-    "fontColor": "#292929",
+    "fontColor": "#fff",
     "backgroundColor": "#07dfb0"
   },
   {
@@ -107,6 +107,15 @@
     "fontColor": "rgba(255,255,255,0.87)",
     "backgroundColor": "#212121"
   },
+  {
+    "title": "Web Fundamentals",
+    "content": "브라우저 렌더링 최적화에 대한 튜토리얼",
+    "link": "https://developers.google.com/web/fundamentals/performance/rendering/",
+    "thumb": "https://developers.google.com/web/images/web-fundamentals-icon192x192.png",
+    "tags": ["js"],
+    "fontColor": "#fff",
+    "backgroundColor": "#4285f4"    
+  },  
   {
     "title": "Poiemaweb",
     "content": "웹 기술 튜토리얼 사이트",
