@@ -1,5 +1,14 @@
 [
   {
+    "title": "The Road to learn React",
+    "content": "리액트 입문자를 위한 책",
+    "link": "http://www.realhanbit.co.kr/books/87/pages/974/preview",
+    "thumb": "https://hanbit.s3.amazonaws.com/users/17/write/eb93/images/cover_thumbnail.png?time=1519283057933",
+    "tags": ["js", "react"],
+    "fontColor": "#fff",
+    "backgroundColor": "#f67744"
+  },  
+  {
     "title": "Uisources",
     "content": "최고의 매출을 올리고 있는 앱에서 UI를 어떻게 제공하는지 확인하세요",
     "link": "https://www.uisources.com/",
@@ -7,7 +16,7 @@
     "tags": ["ui", "design"],
     "fontColor": "#fff",
     "backgroundColor": "#6a59ff"
-  },  
+  },
   {
     "title": "30-seconds-of-css",
     "content": "30초 안에 이해할 수 있는 CSS 컬렉션",
