@@ -1,5 +1,14 @@
 [
   {
+    "title": "Uisources",
+    "content": "최고의 매출을 올리고 있는 앱들이 UI를 어떻게 제공하는지 확인하세요",
+    "link": "https://www.uisources.com/",
+    "thumb": "https://uploads-ssl.webflow.com/5b0aa97815edac66febe3cef/5b38c2cbf23df371076eb319_favicon256x256.png",
+    "tags": ["ui", "design"],
+    "fontColor": "#fff",
+    "backgroundColor": "#6a59ff"
+  },  
+  {
     "title": "30-seconds-of-css",
     "content": "30초 안에 이해할 수 있는 CSS 컬렉션",
     "link": "https://atomiks.github.io/30-seconds-of-css/",
