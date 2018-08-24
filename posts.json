@@ -1,5 +1,23 @@
 [
   {
+    "title": "Picular",
+    "content": "단어를 입력하면 연관된 색상 리스트를 보여줍니다",
+    "link": "https://picular.co/color",
+    "thumb": "https://picular.co/apple-touch-icon.fd8c2282.png",
+    "tags": ["color"],
+    "fontColor": "#778a99",
+    "backgroundColor": "#f1f4f7"
+  },
+  {
+    "title": "Icon Transition Generator",
+    "content": "두개의 SVG 아이콘을 업로드하여 전환효과를 생성합니다",
+    "link": "https://nucleoapp.com/tool/icon-transition",
+    "thumb": "https://nucleoapp.com/assets/favicons/apple-touch-icon.png",
+    "tags": ["icon", "ui"],
+    "fontColor": "#608def",
+    "backgroundColor": "#1b1c21"
+  },    
+  {
     "title": "The Road to learn React",
     "content": "리액트 입문자를 위한 책",
     "link": "http://www.realhanbit.co.kr/books/87/pages/974/preview",
